@@ -50,3 +50,4 @@ The deployment script generates a self-signed certificate for `kubepulse.local`.
 
 See `backend/README.md` and `frontend/README.md` for detailed development instructions.
 # KubePulse
+# KubePulse2
